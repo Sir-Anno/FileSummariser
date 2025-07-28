@@ -13,7 +13,6 @@ A command-line tool written in C++ that scans directories or file lists, filters
 
 ### Notes
 -   Enclose paths in quotes if they contain spaces.
--   Use double backslashes (`\\`) or forward slashes (`/`) for paths in `.txt` files.
 
 ## Developer Guide
 ### Requirements
