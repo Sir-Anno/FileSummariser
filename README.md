@@ -2,7 +2,7 @@
 A command-line tool written in C++ that scans directories or file lists, filters by supported file types, and outputs file sizes in a human-readable format. 
 
 ## Features
--   Recursively scan a directory for valid media files (`.png`, `.bmp`, `.dds`, `.tga`, `.mp4`, `.avi`, `.mov`, `.mkv`).
+-   Scans a directory for valid media files (`.png`, `.bmp`, `.dds`, `.tga`, `.mp4`, `.avi`, `.mov`, `.mkv`).
 -   Or read a `.txt` file containing paths to directories or files.
 -   Output file size in human-readable format.
 -   Optionally export results to a file.
